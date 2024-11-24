@@ -1,2 +1,3 @@
 - [Read Me](README)
-- [Cosmetic Verification](cloudscripts/cosmetic.md)
+- Cloudscripts
+  - [Cosmetic Verification](cloudscripts/cosmetic.md)
